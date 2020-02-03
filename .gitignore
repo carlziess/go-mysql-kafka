@@ -1,0 +1,13 @@
+.env
+.idea/
+.project
+.metadata
+*.tmp
+*.bak
+*.swp
+*~.nib
+.DS_Store
+loginout
+*.log
+/log
+*.toml
