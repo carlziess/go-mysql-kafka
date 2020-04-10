@@ -1,6 +1,6 @@
 # go-mysql-kafka
-go-mysql-kafka it's a mysql binlog subscriber. and will sending message to kafka brokers immediately.
-It uses [`go-mysql`](https://github.com/siddontang/go-mysql) to fetch the origin data.
+
+The Go-MySQL-Kafka it's a MySQL bin log subscriber. And will send the message to Kafka brokers immediately. It uses [`Go-MySQL`](https://github.com/siddontang/go-mysql) to fetch the origin data.
 
 ## Install
 
